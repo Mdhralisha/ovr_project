@@ -1,0 +1,40 @@
+.main{
+    width: 90%;
+    height: 430px;
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color:white;
+    margin: 0 auto;
+    margin-top: -108px;
+    display: flex;
+    border: none;
+
+}
+.text{
+    width: 70%;
+    height: 430px;
+    border: 1px black solid;
+    margin-right: 200px;
+    border: none;
+
+}
+.detailss{
+  
+   margin-left: 30px;
+   font-size: 16px;
+   font-family: sans-serif;
+   margin-top:-20px;
+
+}
+.bookbtn{
+    width: 90%;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: -40px;
+    background-color: rgb(2, 45, 2);
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    cursor: pointer;
+    border-radius: 10px;
+}

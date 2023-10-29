@@ -1,0 +1,59 @@
+body{
+ 
+    
+    background-image: url(../images/bgcar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.contact{
+    width: 30%;
+    height: 320px;
+    border: 1px solid white;
+    margin-left: 450px;
+    margin-top: 100px;
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(9, 51, 28);
+    border-radius: 8px;
+    box-shadow: 1px 3px 3px 3px rgb(6, 66, 30);
+}
+.img1{
+display: flex;
+margin-left: 50px;
+}
+.location1{
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(9, 51, 28);
+}
+.loc{
+    margin-top: 15px;
+   
+}
+.hr{
+   background-color: green;
+}
+.loc2{
+    margin-right: 6px;
+}
+.location2{
+    margin-left: -11px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(9, 51, 28);
+
+}
+.location3{
+    margin-left: 11px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgb(9, 51, 28);
+
+}
+.loc3{
+    margin-top: 15px;
+    margin-left: 15px;
+}

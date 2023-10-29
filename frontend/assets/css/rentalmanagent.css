@@ -1,0 +1,28 @@
+a.approvebtn{
+    text-decoration: none;
+    width: 30%;
+    height: 20px;
+    border: 1px solid black;
+    background-color: rgb(33, 74, 33);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+a.approvebtn:hover{
+    background-color: rgb(56, 83, 16);
+}
+a.rejectbtn{
+    text-decoration: none;
+    width: 40%;
+    height: 20px;
+    border: 1px solid black;
+    background-color: rgb(33, 74, 33);
+    color: white;
+    padding: 5px 12px;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+a.rejectbtn:hover{
+    background-color: rgb(56, 83, 16);
+}

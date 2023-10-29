@@ -1,0 +1,95 @@
+body{
+
+    background-color: rgb(27, 50, 27);
+}
+
+.forms{
+    width: 50%;
+    height: 720px;
+    border: 1px solid rgb(240, 236, 236);
+    background-color: bisque;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 5px;
+    box-shadow: 1px 5px 5px  rgb(6, 54, 6);
+}
+.formquery{
+    margin-left: 80px;
+    margin-top: 50px;
+   
+   
+
+   
+
+}
+.head{
+    text-align: center;
+    color: rgb(5, 68, 5);
+    font-family: sans-serif;
+    border-bottom: 1px solid green;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.locs{
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid green;
+
+}
+.period{
+    width: 42%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 3px;
+    border: 1px solid green;
+
+}
+.pick{
+    height: 30px;
+    width: 40%;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid green;
+}
+.time{
+    height: 30px;
+    width: 43%;
+    border-radius: 5px;
+    border: none;
+    margin-left: 30px;
+    border: 1px solid green;
+}
+.submit{
+    width: 88%;
+    height: 40px;
+    background-color: rgb(8, 69, 8);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+   
+}
+
+.list{
+    margin-top: 50px;
+    color: black;
+
+}
+.termstext{
+    margin-left:-15px;
+   
+    margin-top: 40px;
+    color: red;
+    
+}
+.terms{
+    color: rgb(9, 71, 9);
+    margin-right: 40px;
+
+}

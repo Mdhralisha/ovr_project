@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(15, 42, 15);
+}
+.main{
+    height: 250px;
+    width: 30%;
+    border: 1px solid black;
+    margin-left: 450px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    box-shadow: 1px 1px 1px green;
+}
+.insidemain{
+    margin-top: 40px;
+    margin-left: 70px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 70px;
+}
+.new{
+    width: 70%;
+    height: 20px;
+}
+.old{
+    width: 70%;
+    height: 20px;
+}
+
+.confirm {
+    width: 70%;
+height: 20px;
+}
+.save{
+width: 40%;
+height: 35px;
+background-color: rgb(20, 44, 20);
+color: white;
+font-family: sans-serif;
+margin-left: 45px;
+cursor: pointer;
+border-radius: 8px;
+margin-top: 10px;
+
+
+}

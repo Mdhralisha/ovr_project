@@ -1,0 +1,66 @@
+body{
+    background-color: antiquewhite;
+}
+.main{
+    height: 400px;
+    width: 50%;
+    border: 1px solid green;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-radius: 8px;
+    background-color: bisque;
+    box-shadow: 1px 2px 1px ;
+
+}
+
+.edit{
+    border: 1px solid black;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(21, 56, 21);
+    color: white;
+    font-family: sans-serif;
+}
+.inside{
+    margin-top: 30px;
+    margin-left: 110px;
+   
+}
+.fname{
+    width: 80%;
+    height: 30px;
+}
+.email{
+    width: 80%;
+    height: 30px;
+}
+.address{
+    width: 80%;
+    height: 30px;
+}
+.contact{
+    width: 80%;
+    height: 30px;
+}
+.save{
+    width: 30%;
+    height: 40px;
+    margin-left: 100px;
+    background-color: rgb(24, 64, 24);
+    color: white;
+    border-radius: 8px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.pw{
+    width: 30%;
+    height: 40px;
+    margin-left: 100px;
+    background-color: rgb(24, 64, 24);
+    color: white;
+    border-radius: 8px;
+    font-family: sans-serif;
+    cursor: pointer;
+
+}

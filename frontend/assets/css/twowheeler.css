@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(239, 229, 229);
+}
+nav{
+    width: 100%;
+    height: 40px;
+    border: 1px solid black;
+    background-color: rgb(40, 81, 56);
+}
+.srch{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+nav a{
+    padding: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+.snd{
+    background-color: rgb(239, 248, 241);
+    width: 100%;
+    height: 50px;
+   
+
+}
+.snd a{
+    color: black;
+    text-decoration: none;
+    padding:20px;
+  
+    
+    
+   
+}
+.reg{
+    float: right;
+    margin-top: 10px;
+}
+.navi{
+    float: right;
+    margin-top: 15px;
+}
+.categor{
+    width: 10%;
+    height: 100px;
+    border: 1px solid black;
+    float: right;
+    display: none;
+}
+.fw{
+    color: rgb(95, 72, 72);
+}
+.hr{
+    width: 80%;
+}
+.avfw{
+    color: rgb(40, 81, 56);
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    
+}
+
+
+.main{
+    width: 90%;
+    height: 590px;
+    border: 1px solid black;
+    /* position: absolute; */
+    margin-left: 50px;
+    margin-top: -125px;
+    border: none;
+
+}
+.slider{
+    width: 80%;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: 115px;
+    margin-top: 40px;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.productdisplay{
+
+    width: 80%;
+    height: 250px;
+    border: 1px solid black;
+    margin-left: 115px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    width: 15%;
+    height: 210px;
+    border: 1px solid;
+    margin-left: 10px;
+    margin-top: 20px;
+    background-color: white;
+  
+}
+
+.card1{
+    width: 100%;
+    height: 130px;
+    border-bottom: 1px solid black;
+}
+.card2{
+    line-height: 3px;
+    color: rgb(7, 110, 7);
+    font-family: sans-serif;
+}
+.nav li a:hover{
+    color: rgb(67, 64, 64)
+}
+.footer{
+    width: 225vh;
+     height: 120px;
+     border: 1px black solid;
+     background-color: #285138;
+     border: none;
+     margin-left: -50px;
+    
+    
+ }
